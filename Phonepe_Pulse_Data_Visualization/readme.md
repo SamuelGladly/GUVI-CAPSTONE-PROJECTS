@@ -1,4 +1,4 @@
-YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit.
+Phonepe Pulse Data Visualization and Exploration: A UserFriendly Tool Using Streamlit and Plotpy
 
 Problem Statement: The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics. The goal is to extract this data and process it to obtain
@@ -10,6 +10,6 @@ BATCH: D72D73
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL: https://www.youtube.com/watch?v=BKJXhXDjDuA
+DEMO VIDEO URL: https://www.youtube.com/watch?v=BKjvHxE98qI
 
 LINKED IN URL : https://www.linkedin.com/posts/samuel-solomon-116884244_youtube-data-harvesting-and-warehousing-activity-7076940665137332224-2oYd?utm_source=share&utm_medium=member_desktop
