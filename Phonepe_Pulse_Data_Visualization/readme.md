@@ -12,4 +12,4 @@ DOMAIN : DATA SCIENCE
 
 DEMO VIDEO URL: https://www.youtube.com/watch?v=BKjvHxE98qI
 
-LINKED IN URL : https://www.linkedin.com/posts/samuel-solomon-116884244_youtube-data-harvesting-and-warehousing-activity-7076940665137332224-2oYd?utm_source=share&utm_medium=member_desktop
+LINKED IN URL : https://www.linkedin.com/posts/samuel-solomon-116884244_phonepe-pulse-data-visualization-and-exploration-activity-7090637229999493120-m7VL?utm_source=share&utm_medium=member_desktop
