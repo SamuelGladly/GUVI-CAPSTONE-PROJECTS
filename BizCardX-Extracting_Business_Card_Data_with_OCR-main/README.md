@@ -1,5 +1,7 @@
 # BizCardX-Extracting_Business_Card_Data_with_OCR
 
+DEMO LINK : https://www.youtube.com/watch?v=VWzgrw2jrC4
+
 NAME : SAMUEL SOLOMON
 
 BATCH: D72D73
