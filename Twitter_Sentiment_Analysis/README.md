@@ -6,7 +6,7 @@ BATCH: D72D73
 
 DOMAIN : DATA SCIENCE
 
-
+DEMO LINK : https://www.youtube.com/watch?v=RdQTpAu0uVg
  
  The following project is about analyzing the sentiments of tweets on social networking website
  ‘Twitter’. The dataset for this project is scraped from Twitter. It contains 1,600,000 tweets
