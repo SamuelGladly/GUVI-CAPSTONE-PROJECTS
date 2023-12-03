@@ -1,5 +1,5 @@
 Project: Airbnb Analysis
-DEMO LINK : https://www.youtube.com/watch?v=ZD5RRqEclh4
+DEMO LINK : https://www.youtube.com/watch?v=ZD5RRqEclh4 <br/>
 Problem Statement:
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. The objectives are to:
 Establish a MongoDB connection, retrieve the Airbnb dataset, and ensure efficient data retrieval for analysis.
