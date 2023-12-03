@@ -9,7 +9,7 @@ BATCH: D72D73
 DOMAIN : DATA SCIENCE
 
 
-DEMO VIDEO URL: https://www.youtube.com/watch?v=BKJXhXDjDuA
+DEMO VIDEO URL: https://www.youtube.com/watch?v=mUWh8N4Q6BM
 
 LINKED IN URL : https://www.linkedin.com/posts/samuel-solomon-116884244_youtube-data-harvesting-and-warehousing-activity-7076940665137332224-2oYd?utm_source=share&utm_medium=member_desktop
 
