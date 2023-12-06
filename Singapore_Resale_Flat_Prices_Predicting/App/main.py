@@ -84,19 +84,22 @@ if selected == "Predictions":
                 storey_median = statistics.median(float_list)
 
                 # -----Getting the address by joining the block number and the street name-----
-                address = block + " " + street_name
-                query_address = address
-                query_string = 'https://developers.onemap.sg/commonapi/search?searchVal=' + str(
-                    query_address) + '&returnGeom=Y&getAddrDetails=Y'
-                resp = requests.get(query_string)
-
-                # -----Using OpenMap API getting the latitude and longitude location of that address-----
                 origin = []
-                data_geo_location = json.loads(resp.content)
-                if data_geo_location['found'] != 0:
-                    latitude = data_geo_location['results'][0]['LATITUDE']
-                    longitude = data_geo_location['results'][0]['LONGITUDE']
-                    origin.append((latitude, longitude))
+
+                # -----Getting the address by joining the block number and the street name-----
+                address = block + " " + street_name
+                data = pd.read_csv('df_coordinates.csv')
+                
+ 
+
+            # Filter the DataFrame based on the block number and road name
+                filtered_data = data[(data['blk_no'] == block) & (data['road_name'] == street_name)]
+
+
+            # Get latitude and longitude from the filtered data
+                latitude = filtered_data.iloc[0]['latitude']
+                longitude = filtered_data.iloc[0]['longitude']
+                origin.append((latitude, longitude))
 
                 # -----Appending the Latitudes and Longitudes of the MRT Stations-----
                 # Latitudes and Longitudes are been appended in the form of a tuple  to that list
